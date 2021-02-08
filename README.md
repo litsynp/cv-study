@@ -10,4 +10,6 @@ A repository just for studying Computer Vision (CV).
 
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 
+- [Scipy Lecture Notes](https://scipy-lectures.org/)
+
 - [다크 프로그래머](https://darkpgmr.tistory.com/)
