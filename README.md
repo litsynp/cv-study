@@ -13,3 +13,5 @@ A repository just for studying Computer Vision (CV).
 - [Scipy Lecture Notes](https://scipy-lectures.org/)
 
 - [다크 프로그래머](https://darkpgmr.tistory.com/)
+
+- [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/09/07/basic_vector_operation.html)
